@@ -1,0 +1,5 @@
+{
+  "name": "GenX Fitness",
+  "description": "Kathmandu's premier fitness destination. Experience world-class equipment, expert coaching, and an energetic community at GenX Fitness.",
+  "requestFramePermissions": ["geolocation"]
+}
